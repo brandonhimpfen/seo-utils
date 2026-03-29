@@ -26,7 +26,7 @@ This package provides a simple set of reusable helpers for common SEO tasks.
 ## Install
 
 ```bash
-npm install seo-utils
+npm install @brandonhimpfen/seo-utils
 ```
 
 ## Example
@@ -38,7 +38,7 @@ import {
   trimMetaDescription,
   normalizeCanonicalUrl,
   formatRobotsDirectives
-} from "seo-utils";
+} from "@brandonhimpfen/seo-utils";
 
 const slug = slugify("The Future of AI Infrastructure");
 const title = normalizeTitle("AI Infrastructure", "Brandon Himpfen");

@@ -1,5 +1,5 @@
 {
-  "name": "seo-utils",
+  "name": "@brandonhimpfen/seo-utils",
   "version": "0.1.0",
   "description": "General-purpose helper functions for common SEO tasks.",
   "type": "module",
