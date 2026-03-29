@@ -1,0 +1,35 @@
+{
+  "name": "seo-utils",
+  "version": "0.1.0",
+  "description": "General-purpose helper functions for common SEO tasks.",
+  "type": "module",
+  "main": "src/index.js",
+  "exports": {
+    ".": "./src/index.js"
+  },
+  "files": [
+    "src"
+  ],
+  "scripts": {
+    "test": "node --test"
+  },
+  "keywords": [
+    "seo",
+    "metadata",
+    "slug",
+    "canonical",
+    "robots",
+    "open graph",
+    "utility"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/brandonhimpfen/seo-utils.git"
+  },
+  "bugs": {
+    "url": "https://github.com/brandonhimpfen/seo-utils/issues"
+  },
+  "homepage": "https://github.com/brandonhimpfen/seo-utils#readme",
+  "author": "Brandon Himpfen",
+  "license": "MIT"
+}
